@@ -1,0 +1,15 @@
+C:\repo\repo001\bin\Debug\net6.0\repo001.exe
+C:\repo\repo001\bin\Debug\net6.0\repo001.deps.json
+C:\repo\repo001\bin\Debug\net6.0\repo001.runtimeconfig.json
+C:\repo\repo001\bin\Debug\net6.0\repo001.dll
+C:\repo\repo001\bin\Debug\net6.0\repo001.pdb
+C:\repo\repo001\obj\Debug\net6.0\repo001.csproj.AssemblyReference.cache
+C:\repo\repo001\obj\Debug\net6.0\repo001.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\repo001\obj\Debug\net6.0\repo001.AssemblyInfoInputs.cache
+C:\repo\repo001\obj\Debug\net6.0\repo001.AssemblyInfo.cs
+C:\repo\repo001\obj\Debug\net6.0\repo001.csproj.CoreCompileInputs.cache
+C:\repo\repo001\obj\Debug\net6.0\repo001.dll
+C:\repo\repo001\obj\Debug\net6.0\refint\repo001.dll
+C:\repo\repo001\obj\Debug\net6.0\repo001.pdb
+C:\repo\repo001\obj\Debug\net6.0\repo001.genruntimeconfig.cache
+C:\repo\repo001\obj\Debug\net6.0\ref\repo001.dll
